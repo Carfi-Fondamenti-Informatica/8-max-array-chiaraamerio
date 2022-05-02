@@ -1,6 +1,8 @@
 #include <iostream>
 #include "lib.h"
 
+uding namespace std;
+
 int main(){
    int d=0;
      cout<<"inserire la dimensione dell'array"<<endl;
