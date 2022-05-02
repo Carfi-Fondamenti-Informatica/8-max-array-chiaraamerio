@@ -1,7 +1,7 @@
 #include <iostream>
 #include "lib.h"
 
-uding namespace std;
+using namespace std;
 
 int main(){
    int d=0;
