@@ -12,7 +12,7 @@ int main(){
      for (int i=0; i<d; i++){
          cin>>valori[i];
      }
-     float x= funzione(valori,d);
+     float x= funzione(valori [],d);
      cout<<x<<endl;
   return 0;
 }
