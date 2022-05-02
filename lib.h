@@ -1,1 +1,1 @@
-float funzione (float, int);
+double funzione (double, int);
