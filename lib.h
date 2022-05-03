@@ -1,1 +1,1 @@
-float* funzione (float[], int);
+float funzione (float[], int);
