@@ -1,1 +1,2 @@
+
 float funzione (float[], int);
